@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Territory Organizer</string>
+    <string name="current_territory">Current Territory</string>
+    <string name="assigned_territories">Assigned Territories</string>
+    <string name="territory_organizer">Territory Organizer</string>
+    <string name="request_territory">Request Territory</string>
+    <string name="publisher">Publisher</string>
 </resources>
