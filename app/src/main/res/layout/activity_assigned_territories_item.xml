@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/customborder"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:padding="6dp">
+
+    <TextView
+        android:id="@+id/territoryId"
+        style="@style/territoryItem" />
+
+    <TextView
+        android:id="@+id/territoryCongregation"
+        style="@style/territoryItem" />
+
+    <TextView
+        android:id="@+id/territoryPreacher"
+        style="@style/territoryItem" />
+
+    <TextView
+        android:id="@+id/territoryServiceArea"
+        style="@style/territoryItem" />
+
+</LinearLayout>
